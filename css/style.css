@@ -75,6 +75,7 @@
 
 .sectionone {
   background: url("../img/bgt.png") no-repeat top 20px right #1FBD8A;
+  padding-bottom: 140px;
 }
 
 .sectionone_block {
@@ -121,5 +122,8 @@
 .sectionone_block-partners {
   margin-top: 360px;
   background: #FFF;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 /*# sourceMappingURL=style.css.map */
